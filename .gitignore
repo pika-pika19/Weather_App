@@ -1,0 +1,22 @@
+# Node
+**/node_modules/
+
+# Vite build output
+**/dist/
+**/.vite/
+
+# Java build output
+**/target/
+
+# Environment variables
+*.env
+**/.env
+**/.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/
+.idea/
